@@ -10,10 +10,9 @@ package oop_ptit;
  */
 import java.util.*;
 import java.io.*;
-
-public class J07002 {
+public class J07004 {
     public static void main(String[] args){
-        long sum = 0;
+        int[] cnt = new int[10000];
         try{
             FileReader reader = new FileReader("DATA.in");
             BufferedReader bufferedReader = new BufferedReader(reader);
@@ -22,16 +21,19 @@ public class J07002 {
                 String[] arr = line.split("\\s+");
                 for(int i=0;i<arr.length;i++){
                     try{
-                        sum += Integer.parseInt(arr[i]);
+                        cnt[Integer.parseInt(arr[i])]++;
                     }
                     catch(Exception e){
                     }
                 }
-            
             }
         }
         catch(Exception e){
         }
-        System.out.println(sum);
+        for(int i=0;i<10000;i++){
+            if(cnt[i]>0){
+                System.out.println(i+" "+cnt[i]);
+            }
+        }
     }
 }
