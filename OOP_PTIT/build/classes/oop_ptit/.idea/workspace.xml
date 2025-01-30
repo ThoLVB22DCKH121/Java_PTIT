@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="563d34e4-018b-44b3-9e69-8479587bbdc3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/J01001.java" beforeDir="false" afterPath="$PROJECT_DIR$/J01001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J01002.java" beforeDir="false" afterPath="$PROJECT_DIR$/J01002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J01003.java" beforeDir="false" afterPath="$PROJECT_DIR$/J01003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J02009.java" beforeDir="false" afterPath="$PROJECT_DIR$/J02009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J02026.java" beforeDir="false" afterPath="$PROJECT_DIR$/J02026.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J02027.java" beforeDir="false" afterPath="$PROJECT_DIR$/J02027.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J02034.java" beforeDir="false" afterPath="$PROJECT_DIR$/J02034.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J03024.java" beforeDir="false" afterPath="$PROJECT_DIR$/J03024.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J03026.java" beforeDir="false" afterPath="$PROJECT_DIR$/J03026.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J03040.java" beforeDir="false" afterPath="$PROJECT_DIR$/J03040.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J04001.java" beforeDir="false" afterPath="$PROJECT_DIR$/J04001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J04003.java" beforeDir="false" afterPath="$PROJECT_DIR$/J04003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J04005.java" beforeDir="false" afterPath="$PROJECT_DIR$/J04005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J04006.java" beforeDir="false" afterPath="$PROJECT_DIR$/J04006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J04007.java" beforeDir="false" afterPath="$PROJECT_DIR$/J04007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J04010.java" beforeDir="false" afterPath="$PROJECT_DIR$/J04010.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J04011.java" beforeDir="false" afterPath="$PROJECT_DIR$/J04011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J04012.java" beforeDir="false" afterPath="$PROJECT_DIR$/J04012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J04013.java" beforeDir="false" afterPath="$PROJECT_DIR$/J04013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J04014.java" beforeDir="false" afterPath="$PROJECT_DIR$/J04014.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J04015.java" beforeDir="false" afterPath="$PROJECT_DIR$/J04015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J05003.java" beforeDir="false" afterPath="$PROJECT_DIR$/J05003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J05033.java" beforeDir="false" afterPath="$PROJECT_DIR$/J05033.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07033.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07033.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07037.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07037.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07045.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07045.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07046.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07046.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07055.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07055.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07071.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07071.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07072.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07072.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07073.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07073.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07076.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07076.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07081.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07081.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07084.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07084.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J07085.java" beforeDir="false" afterPath="$PROJECT_DIR$/J07085.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J08012.java" beforeDir="false" afterPath="$PROJECT_DIR$/J08012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J08015.java" beforeDir="false" afterPath="$PROJECT_DIR$/J08015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J08020.java" beforeDir="false" afterPath="$PROJECT_DIR$/J08020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/J08024.java" beforeDir="false" afterPath="$PROJECT_DIR$/J08024.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JKT013.java" beforeDir="false" afterPath="$PROJECT_DIR$/JKT013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JKT014.java" beforeDir="false" afterPath="$PROJECT_DIR$/JKT014.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_PTIT.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2nZJuQ76P7z75SO1XpnjX7hNVS5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LE VAN THO/Desktop/Bài Tập Lớn Java",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="563d34e4-018b-44b3-9e69-8479587bbdc3" name="Changes" comment="" />
+      <created>1729174888372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729174888372</updated>
+      <workItem from="1729174889865" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
